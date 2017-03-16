@@ -2,7 +2,7 @@
   "name": "app",
   "version": "0.0.1",
   "description": "first app",
-  "main": "app.js",
+  "main": "server.js",
   "author": {
     "name": "Zozo",
     "email": "gaszol11.c@gmail.com"
